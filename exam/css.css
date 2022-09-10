@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.pdiv{
+    padding: 0 8px; 
+    float: left;
+    font-size: 15px;
+    line-height: 1.5;
+    max-width: 1400px; 
+}
+
+.doe {
+    padding: 0 8px;
+    float: left;
+}
+
+.hat {
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+    color: #757575;
+}
+
+.h2 {
+    color: #000;
+    left: 96px;
+    bottom: 375px;
+    font-weight: 400;
+    margin: -51px 0;
+    font-size: 41px;
+}
+.designer{
+  color: #757575;
+  padding: 355px;
+  margin-left: -303px;
+}
+
+.uk{
+    color: #757575;
+    margin-top: -338px;
+    margin-left: 50px;
+}
+.mail{
+    color:#757575;
+    margin-left: 46px;
+}
+.number{
+    color:#757575;
+    margin-left: 45px;
+}
